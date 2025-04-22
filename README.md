@@ -2,4 +2,5 @@
 &emsp;a) In order to run properly, the zip file should be extracted into a folder that is saved in the same location as the modified approaches file, with the name 'geopotential_500'  
 2.) The file containing my new approaches is titled "Modified_approaches.ipynb"  
 3.) The src folder is necessary for computing MSE & RMSE so it will need to be downloaded as well  
-![ex folder](./images/example_folder_structure.png)
+The following image shows the folder structure that I used  
+![ex folder](./images/example_folder_structure.png)  
